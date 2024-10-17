@@ -92,8 +92,7 @@ nav a {
 /* Grid Layout for Main Content */
 .container {
     display: grid; /* Enable grid layout */
-    grid-template-columns: auto;
-    grid-template-rows: auto;
+    grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
     align-content: center;
     background-color: white;
     padding: 10px 4%;
