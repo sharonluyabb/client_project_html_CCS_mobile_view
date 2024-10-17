@@ -7,18 +7,18 @@ body {
 }
 
 h1 {
-    font-size: 170%; /* Adjust font size for mobile */
+    font-size: 200%; /* Adjust font size for mobile */
     text-align: center; /* Center align headings */
 }
 
 h2 {
-    font-size: 120%; /* Adjust font size for mobile */
+    font-size: 150%; /* Adjust font size for mobile */
     text-align: center; /* Center align headings */
     margin: 0%;
 }
 
 p {
-    font-size: 80%; /* Font size for paragraphs */
+    font-size: 100%; /* Font size for paragraphs */
     margin: 0; /* Remove default margin */
     line-height: 120%; /* Line height for readability */
 }
@@ -55,7 +55,7 @@ nav ul li {
 }
 
 nav a {
-    font-size: 100%;
+    font-size: 120%;
     color: white;
 }
 
